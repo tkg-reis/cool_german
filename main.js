@@ -61,7 +61,7 @@
                 let point4 = randomNumber + 50 ;
                 ul.textContent = point4 + "points!";
                 ul.appendChild(createGerman);
-            }else if(ae.test(upStr) === true || oe.test(upStr)===true || ue.test(upStr) === true) {
+            }else if(ae.test(upStr) === true || oe.test(upStr)===true || ue.test(upStr) === true) { 
                 let point8 = randomNumber + 40 ;
                 ul.textContent = point8 + "points!";
                 ul.appendChild(createGerman);
